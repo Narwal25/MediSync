@@ -1,6 +1,6 @@
-# Hospital Management Project
+# MediSync
 
-Welcome to the Hospital Management Project repository! This Python project is designed for hospital management tasks, and it includes several modules to handle different functionalities.
+Welcome to the MediSync Hospital Management Project repository! This Python project is designed for hospital management tasks, and it includes several modules to handle different functionalities.
 
 ## Overview
 
@@ -34,12 +34,12 @@ Welcome to the Hospital Management Project repository! This Python project is de
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Narwal25/Project.git
+   git clone https://github.com/Narwal25/MediSync.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Project
+   cd MediSync
    ```
 
 3. Run the main script:
@@ -51,7 +51,7 @@ Welcome to the Hospital Management Project repository! This Python project is de
 
 ### On GitHub
 
-Visit the [GitHub Repository](https://github.com/Narwal25/Project) and navigate through the files to explore the project structure and modules.
+Visit the [GitHub Repository](https://github.com/Narwal25/MediSync) and navigate through the files to explore the project structure and modules.
 
 ## Contributing
 
