@@ -66,6 +66,3 @@ Feel free to contribute to this project by adding new features, fixing bugs, or 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This version excludes the mention of the initial commit and adds a section on how to use the repository directly on GitHub. Customize it further based on your preferences or additional details you want to include.
