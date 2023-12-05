@@ -1,6 +1,3 @@
-Certainly! Here's the README.md template for the "Project" repository without mentioning the initial commit and with a section on how to use the repository directly on GitHub:
-
-```markdown
 # Hospital Management Project
 
 Welcome to the Hospital Management Project repository! This Python project is designed for hospital management tasks, and it includes several modules to handle different functionalities.
